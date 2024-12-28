@@ -284,11 +284,8 @@ span.now::before {
 }
 
     .footer {
-        padding: 5px; /* Reduce footer padding */
-    }
-
-    .footer-content .link1 a {
-        font-size: 14px; /* Smaller font size for footer links */
+        padding: 20px;
+        font-size: 14px; /* Reduce footer padding */
     }
 
 }
