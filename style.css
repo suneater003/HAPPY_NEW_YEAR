@@ -115,7 +115,7 @@ body {
 span.now {
     position: absolute;
     right: 0%;
-    margin-right: -200px;
+    margin-right: -170px;
     animation: year_2025 6s ease-in-out forwards; /* `.now` animation takes 6s */
 }
 .second {
@@ -238,7 +238,7 @@ span.now {
 
 .second span {
     font-size: 95px;
-    margin-right:-35%;
+    margin-right:-30%;
 }
 
 span.past {
