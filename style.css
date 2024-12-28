@@ -221,7 +221,7 @@ span.now {
     position: absolute;
     right: 0%;
     margin-right: -85px;
-    animation: year_2025 6s ease-in-out forwards; /* `.now` animation takes 6s */
+    animation: year_2025 6s ease-in-out forwards; 
 }
 .second {
     position: absolute;
@@ -233,17 +233,17 @@ span.now {
     align-items: center;
     overflow: hidden;
     padding: 100px 100px 0 0;
-    top: 0%; /* Adjusted to move it up */
+    top: 0%; 
 }
 
 .second span {
     font-size: 95px;
-    margin-right:-35%;
+    margin-right:-30%;
 }
 
 span.past {
     position: absolute;
-    top:50%;
+    top:49.5%;
     right: 0%;
     margin-right: 65px;
     animation: year_2024 5s ease-in-out 5s forwards;
