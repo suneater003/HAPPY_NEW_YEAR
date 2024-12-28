@@ -1,14 +1,14 @@
 body {
     margin: 0;
-    font-family: Arial, sans-serif;
+    font-family:'Times New Roman', Times, serif;
     color: white;
     background: black;
     overflow: hidden;
     background: linear-gradient(135deg, #FFD700, #FF4500, #1E3A8A);
-    color: #FFFFFF; /* Bright white for text */
-    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8); /* Subtle glow effect */
+    color: #FFFFFF; 
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8); 
     background-attachment: fixed;
-    min-height: 100vh; /* Ensure the body covers the full height of the viewport */
+    min-height: 100vh; 
     display: flex;
     flex-direction: column;
 }
@@ -17,7 +17,7 @@ body {
     color: white;
     text-align: center;
     padding: 3px;
-    margin-top: auto; /* Push the footer to the bottom of the page */
+    margin-top: auto;
 }
 .home:hover{
     color: rgb(246, 170, 7);
